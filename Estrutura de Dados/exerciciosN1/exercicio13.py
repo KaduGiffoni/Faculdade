@@ -1,4 +1,4 @@
-# Ler um numero inteiro (assuma ate tres digitos) e imprimir a saida da seguinte forma:
+# 13 - Ler um numero inteiro (assuma ate tres digitos) e imprimir a saida da seguinte forma:
 # CENTENA = X
 # DEZENA = X
 # UNIDADE = X
